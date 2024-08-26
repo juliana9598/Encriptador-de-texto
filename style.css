@@ -58,7 +58,7 @@ form {
     width: 100%;
     max-width: 577px;
     max-height: 64dvh;
-    border: none; /* Removed border */
+    border: none;
     height: 64dvh;
     outline: none;
     background: transparent;
@@ -70,7 +70,7 @@ form {
 
 .form__input::placeholder {
     color: var(--dark-blue);
-    opacity: 1; /* Ensure placeholder is visible */
+    opacity: 1;
 }
 
 .btn__container {
@@ -140,7 +140,7 @@ form {
 .result__img {
     max-width: 100%;
     height: auto;
-    margin-bottom: 20px; /* Space between image and text */
+    margin-bottom: 20px;
 }
 
 .result__container{
